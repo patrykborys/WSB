@@ -1,0 +1,22 @@
+c:\users\borysp\source\repos\PingLokalizacji\PingLokalizacji\bin\Debug\PingLokalizacji.exe.config
+c:\users\borysp\source\repos\PingLokalizacji\PingLokalizacji\bin\Debug\PingLokalizacji.exe
+c:\users\borysp\source\repos\PingLokalizacji\PingLokalizacji\bin\Debug\PingLokalizacji.pdb
+c:\users\borysp\source\repos\PingLokalizacji\PingLokalizacji\obj\Debug\PingLokalizacji.csprojResolveAssemblyReference.cache
+c:\users\borysp\source\repos\PingLokalizacji\PingLokalizacji\obj\Debug\PingLokalizacji.Form1.resources
+c:\users\borysp\source\repos\PingLokalizacji\PingLokalizacji\obj\Debug\PingLokalizacji.Properties.Resources.resources
+c:\users\borysp\source\repos\PingLokalizacji\PingLokalizacji\obj\Debug\PingLokalizacji.csproj.GenerateResource.Cache
+c:\users\borysp\source\repos\PingLokalizacji\PingLokalizacji\obj\Debug\PingLokalizacji.csproj.CoreCompileInputs.cache
+c:\users\borysp\source\repos\PingLokalizacji\PingLokalizacji\obj\Debug\PingLokalizacji.exe
+c:\users\borysp\source\repos\PingLokalizacji\PingLokalizacji\obj\Debug\PingLokalizacji.pdb
+C:\Users\borysp\source\repos\PingLokalizacji\PingLokalizacji\obj\Debug\PingLokalizacji.SQLtoXML.resources
+C:\Users\borysp\OneDrive - Colas\WSB\PingLokalizacji\PingLokalizacji\bin\Debug\PingLokalizacji.exe.config
+C:\Users\borysp\OneDrive - Colas\WSB\PingLokalizacji\PingLokalizacji\bin\Debug\PingLokalizacji.exe
+C:\Users\borysp\OneDrive - Colas\WSB\PingLokalizacji\PingLokalizacji\bin\Debug\PingLokalizacji.pdb
+C:\Users\borysp\OneDrive - Colas\WSB\PingLokalizacji\PingLokalizacji\obj\Debug\PingLokalizacji.csprojResolveAssemblyReference.cache
+C:\Users\borysp\OneDrive - Colas\WSB\PingLokalizacji\PingLokalizacji\obj\Debug\PingLokalizacji.Form1.resources
+C:\Users\borysp\OneDrive - Colas\WSB\PingLokalizacji\PingLokalizacji\obj\Debug\PingLokalizacji.Properties.Resources.resources
+C:\Users\borysp\OneDrive - Colas\WSB\PingLokalizacji\PingLokalizacji\obj\Debug\PingLokalizacji.SQLtoXML.resources
+C:\Users\borysp\OneDrive - Colas\WSB\PingLokalizacji\PingLokalizacji\obj\Debug\PingLokalizacji.csproj.GenerateResource.Cache
+C:\Users\borysp\OneDrive - Colas\WSB\PingLokalizacji\PingLokalizacji\obj\Debug\PingLokalizacji.csproj.CoreCompileInputs.cache
+C:\Users\borysp\OneDrive - Colas\WSB\PingLokalizacji\PingLokalizacji\obj\Debug\PingLokalizacji.exe
+C:\Users\borysp\OneDrive - Colas\WSB\PingLokalizacji\PingLokalizacji\obj\Debug\PingLokalizacji.pdb
